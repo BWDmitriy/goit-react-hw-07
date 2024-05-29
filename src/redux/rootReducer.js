@@ -1,8 +1,4 @@
-// src/redux/rootReducer.js
-
-import {
-    combineReducers
-} from 'redux';
+import { combineReducers } from 'redux';
 import contactsReducer from './contactsSlice';
 import filtersReducer from './filtersSlice';
 
